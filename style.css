@@ -1,0 +1,12 @@
+.background_img {
+  background-image: url("./image/download.jpg");
+  width: 800px;
+  height: 800px;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+#overlay {
+  width: 100%;
+  height: 100%;
+  background-color: rgba(10, 9, 9, 0.745);
+}
